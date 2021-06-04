@@ -34,7 +34,10 @@ Challenges
     Wire up your application to an external API that provides the current exchange rates.
 
 */
-
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solutions
+ *  Copyright 2021 first_name last_name
+ */
 import java.util.Scanner;
 
 public class ex11 {
